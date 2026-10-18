@@ -99,3 +99,6 @@ yarn-error.log*
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# sdd-engineering plugin version telemetry (local trace)
+.claude/telemetry/
