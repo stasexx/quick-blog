@@ -1,0 +1,16 @@
+{
+  "enabledPlugins": {
+    "sdd-engineering@agentic-marketplace": true,
+    "research-tools@agentic-marketplace": true,
+    "code-agents@agentic-marketplace": true
+  },
+  "extraKnownMarketplaces": {
+    "agentic-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "stasexx/agentic-marketplace",
+        "ref": "stable"
+      }
+    }
+  }
+}
